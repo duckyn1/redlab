@@ -205,3 +205,52 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled files
+*.so
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Security tools output
+scans/
+results/
+captures/
+pcaps/
+
+# Generated reports
+reports/
+
+# Local configs
+config.local.json
