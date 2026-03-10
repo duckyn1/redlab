@@ -60,3 +60,5 @@ All tools are meant to be used only on systems you own or have permission to tes
 - [ ] Build simple **recon automation tools**
 
 ---
+
+Contact: [@duckyn1 (Telegram)](https://t.me/duckyn1)
