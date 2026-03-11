@@ -6,7 +6,7 @@
 
 RedLab (Red Team Lab) is my personal cybersecurity laboratory where I build and experiment with tools related to Linux security, networking, and ethical hacking.
 The goal of this repository is to learn how offensive security tools work by creating small practical projects from scratch.
-This is not a collection of random scripts — every tool here is made to help me understand real cybersecurity concepts.
+This is not a collection of random scripts - every tool here is made to help me understand real cybersecurity concepts.
 
 ---
 
