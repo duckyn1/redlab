@@ -45,7 +45,6 @@ Most tools in this repository are built using:
 ---
 
 ## Disclaimer
-
 This repository is created for **educational and ethical cybersecurity research**.
 All tools are meant to be used only on systems you own or have permission to test.
 
